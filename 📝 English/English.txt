@@ -1,0 +1,263 @@
+[📚Head_First_Data_Analysis_2009 P30]
+1. 
+hypotheses
+regression
+Do you want to learn, understand, and remember how to create brilliant graphics, test hypotheses, run a regression, or clean up messy data?
+
+2.
+stimulating
+Do you prefer stimulating dinner party conversation to dry, dull, academic lectures?
+
+3.
+bleeding edge topic
+seasoned
+Are you a seasoned, brilliant data analyst looking for a survey of bleeding edge data topic?
+
+4.
+anthropomorphizes
+Do you believe that a technical book can't be serious if it anthropomorphizes control groups and objectiv functions
+
+
+**** Do you fell like there's a world of insights buried in your data that you'd only be able to access if you had the right tools?
+[📚Head_First_Data_Analysis_2009 P31]
+5. 
+craves
+novelty
+Your brain craves novelty.
+6.
+neurons
+Neurons fire. Emotions crank up. Chemicals surge.
+
+7.
+clutter up
+scarce
+Your brain's trying to make sure that this obviously non-important content doesn't clutter up scarce resources.
+
+[📚Head_First_Data_Analysis_2009 P32]
+8. 
+cognitive
+neurobiology
+Based on the latest research in congnitive science, neurobiology, and educational psychology, learning takes a lot more than text on a page.
+
+9.
+curious
+A reader has to be motivated, engaged, curious, and inspired to solve problems, draw conclusions, and generate new knowledge.
+
+10.
+heart-wrenching
+No, we're not talking heart-wrenching stories about a boy and his dog.
+
+[📚Head_First_Data_Analysis_2009 P33]
+11.
+metacognition:
+Mentacongnition: thniking about thinking
+
+12.
+Crucial
+Crucial to your well-being.
+
+13.
+constant battle
+Otherwise, you're in for a constant battle, with your brain doing tis best to keep the new content form sticking
+
+14.
+tedious
+There's the slow, tedious way, or the faster, more effective way.
+
+15.
+sheer
+repetition
+The slow way is about sheer repetition.
+
+16.
+pounding ... into your brain
+You obviously know that you are able to learn and remember even the dullest of topic if you kkep poinding the same thing into your brain
+
+17.
+perceive
+sb perceive that 
+A conversational style helps because people tend to pay more attention when they perceive that ther're in a conversation, since ther're expected to follow along and hold up their end.
+
+[📚Head_First_Data_Analysis_2009 P34]
+18.
+Tune
+is tuned for visual 
+We used pictures, because your brains is tuned for visuals, not text.
+
+19.
+caption
+And when text and pictures work together, we embedded the text i nthe pictures because your brain works more effectively when the text is within the thing the text refers to, as opposed to in a caption or bured in the text somewhere.
+
+20.
+dendrite
+jargon-laden
+terse
+That you,re not spending one extra dendrite processing a hard-to-undersatnd example, or parsing difficult, jargon-laden, or overly terse.
+
+[📚Head_First_Data_Analysis_2009 P35]
+21.
+bath of fluid
+Your brain woks best int a nice bath of fluid.
+
+22.
+dehydration
+Dehydration (which can happen before you ever feel thirsty) decreases congnitive function.
+
+23.
+shove
+shoeve ... in ...
+Once you go past a certain point, you won't learn faster by trying to shove more in, and you might even hurt the prodessl
+
+24.
+daptions
+groahihg
+Make up your own captions for the photos.
+
+25.
+groan
+Groaning over a bad joke is still better than feeling nothing at all.
+
+[📚Head_First_Data_Analysis_2009 P36]
+26.
+deliberately
+We deliberately stripped out everthing that might get in the way of learning whatever it is we're working on at that point in the book.
+
+27.
+encompass
+nitty-grity
+But "data analysis" encompasses statistics and a number of other fields, and the many non-statistical topics chosen for this book are focused on parctical, nirry-gritty experience of doing data analysis in the world.
+
+[📚Head_First_Data_Analysis_2009 P37]
+28.
+retention
+Most refernce books don't have retention and recall as a goal, but this book is about learning, so you'll see some of the same concepts come up more than once.
+
+[📚Head_First_Data_Analysis_2009 P38]
+29.
+savoring
+When he isn't working, he can normally be found on the golf course in Columbia, Maryland, lost in a good book, savoring a delightful wine, or simply enjoying time with his young girls and amazing wife.
+
+[📚Head_First_Data_Analysis_2009 P41]
+30.
+mound
+mounds of sth
+Nowadays, everyone has to deal with mounds of data whether they call thenseles "data analysts" or not.
+
+31. 
+mssive edge (更大的优势)
+But people who possess a toolbox of data analysis skills have a massive edge on everyone else, because they understand what to do with all that stuff.
+
+[📚Head_First_Data_Analysis_2009 P43]
+32.
+Gross
+Gross sales
+
+[📚Head_First_Data_Analysis_2009 P43]
+33.
+vague request
+It's kind of a vague request, isn't it?
+
+[📚Head_First_Data_Analysis_2009 P44]
+34.
+gleaning
+Ultimately, all data analysis is designed to lead to better decisions, and you're about to learn how to make better decisions by gleaning insights from a sea of data.
+
+[📚Head_First_Data_Analysis_2009 P45]
+35.
+wander
+wander around
+Sure, you might come across some interesting sights, and sometimes you might want to wander around in the hopes you'll stumble on something cool, but who's to say you'll find any thing?
+
+36.
+every once in a while
+ream
+a ream of sth
+Every once in a while, an analyst really does need a ream of paper or an hour long slide show to make a point.
+
+37.
+pelting
+ducking
+obligation
+But in this sort of case, the analyst often hasn't focused enough on his problem and is pelting you with information as a way of ducking his obligation to solve a problem and recommend a decision.
+
+[📚Head_First_Data_Analysis_2009 P46]
+38.
+indecisive
+focused or indecisive
+
+39.
+intuitive
+intuitive or analytic
+
+[📚Head_First_Data_Analysis_2009 P47]
+40.
+hypotheses
+Your problem in exploratory data analysis is to find hypotheses worth testing.
+
+[📚Head_First_Data_Analysis_2009 P48]
+41.
+granularity
+The next step in data analysis is to take what you've learned about your problem from your client your data break information down into the level of granularity that will best serve your analysis.
+
+[📚Head_First_Data_Analysis_2009 P49]
+42.
+coincide
+Does the decrease in unit prices coincide with any change in gross sales?
+
+[📚Head_First_Data_Analysis_2009 P50]
+43.
+clicited
+commentary
+But that problem tells you very little about how you're expected to do it, so you clicited a lot of useful commentary from the CEO
+
+44.
+assumptions
+This commentary provides an important baseline set of assumptions about how the cosmetics business works.
+
+45.
+backbone
+Hopefully, the CEO is right about those assumptions, because they will be the backbone of your analysis.
+
+[📚Head_First_Data_Analysis_2009 P51]
+46.
+propagandistic
+When propagandistic methods don't change, sales also don't change much
+
+[📚Head_First_Data_Analysis_2009 P52]
+47.
+initiative
+Acme is trying out reallocating expenses from advertisements to social networking, but so far, the success of the initiative is unkown.
+
+[📚Head_First_Data_Analysis_2009 P54]
+48.
+credibility
+Your beliefs, your judgement, your credibility
+
+49.
+overreaching
+You'll avoid overreaching in your conclusions.
+
+50.
+wimp
+You'll be a wimp who avoids responsibility!
+
+51.
+detached rationality
+detached
+rationality
+Your client might get a false sense of "objectivity" or detached rationality.
+
+[📚Head_First_Data_Analysis_2009 P55]
+52.
+empower
+glean
+As a data analyst, your job is to empower yourself and your client to make better decisions, using insights gleaned from carefully studying your evaluations of the data.
+
+53.
+digested
+Making that happen means you have to package your ideas and judgments together into a format that can be digested by your client.
+
+[📚Head_First_Data_Analysis_2009 P55]
+52.
+graphic
+A simple graphic to illustrate your conclusion.
