@@ -1,0 +1,2 @@
+https://en.wikipedia.org/wiki/Exponential_distribution#Properties
+https://zh.wikipedia.org/wiki/%E6%8C%87%E6%95%B0%E5%88%86%E5%B8%83#%E4%B8%8E%E6%B3%8A%E6%9D%BE%E8%BF%87%E7%A8%8B%E7%9A%84%E5%85%B3%E7%B3%BB
